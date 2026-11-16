@@ -1,0 +1,5 @@
+# üretim çıktıları (Drive'da tutuluyor)
+video/out/
+assets/preview/
+.tools/
+__pycache__/

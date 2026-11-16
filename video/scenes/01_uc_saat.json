@@ -1,0 +1,47 @@
+{
+  "slug": "01_uc_saat_kayip",
+  "baslik": "ESNAF İÇİN 3 OTOMASYON",
+  "scenes": [
+    {
+      "img": "assets/img/s1_hook.png",
+      "vo": "assets/vo/vo1.mp3",
+      "text": "Günde 3 saat mesaja cevap veriyorsan, o saatler kârından gidiyor.",
+      "vurgu": "3 saat",
+      "motion": "in",
+      "num": null
+    },
+    {
+      "img": "assets/img/s2_setup.png",
+      "vo": "assets/vo/vo2.mp3",
+      "text": "Yapay zekâyı bir kere kuruyorsun, sonra senin yerine o yazıyor.",
+      "motion": "out"
+    },
+    {
+      "img": "assets/img/s3_messages.png",
+      "vo": "assets/vo/vo3.mp3",
+      "text": "Birincisi müşteri mesajları: soruya saniyede cevap.",
+      "motion": "pan_r",
+      "num": "1"
+    },
+    {
+      "img": "assets/img/s4_products.png",
+      "vo": "assets/vo/vo4.mp3",
+      "text": "İkincisi ürün açıklaması: fotoğrafı çek, ilan metni hazır.",
+      "motion": "pan_l",
+      "num": "2"
+    },
+    {
+      "img": "assets/img/s5_cash.png",
+      "vo": "assets/vo/vo5.mp3",
+      "text": "Üçüncüsü akşam kasa özeti: rakamı at, sabah rapor masada.",
+      "motion": "in",
+      "num": "3"
+    },
+    {
+      "img": "assets/img/s6_cta.png",
+      "vo": "assets/vo/vo6.mp3",
+      "text": "Toplam 15 dakika. Yarın dükkânı açmadan dene.",
+      "motion": "out"
+    }
+  ]
+}
